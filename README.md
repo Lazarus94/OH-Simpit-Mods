@@ -1,5 +1,22 @@
 # OH-Simpit-Mods
 
+# Please Read
+
+I DID NOT create the majority of the files contained. I have made mods or compiled them together for ease of use. The original files can be found at:
+
+https://openhornet.com/    https://github.com/jrsteensen/OpenHornet
+
+Use of the files is free as long as you obide by the OpenHornet liscensing.
+
+Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+Attribution Name: OpenHornet Team Attribution URL: http://www.openhornet.com
+
+For commercial licensing or any other licensing opportunities, please contact the team at the URL above.
+
+
 # Contributor Covenant Code of Conduct
 # Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
